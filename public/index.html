@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Car Parking System</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+
+  <h1>🚗 Car Parking Dashboard</h1>
+
+  <div class="card slots">
+    <h2 id="slots">Loading slots...</h2>
+  </div>
+
+  <div class="card input-section">
+    <input type="text" id="carNumber" placeholder="Enter Car Number">
+    <button onclick="parkCar()">Park Car</button>
+    <button onclick="loadReport()" class="secondary">Show Report</button>
+  </div>
+
+  <div class="grid">
+
+    <div class="card">
+      <h2>🚗 Parked Cars</h2>
+      <ul id="list"></ul>
+    </div>
+
+    <div class="card">
+      <h2>📊 Report</h2>
+      <ul id="reportList"></ul>
+    </div>
+
+  </div>
+
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
