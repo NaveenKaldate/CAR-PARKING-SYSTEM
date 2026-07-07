@@ -8,7 +8,6 @@ A modern full-stack **Car Parking Management System** developed using **Node.js,
 
 > Add your project screenshot here.
 
-![Dashboard](assets/dashboard.png)
 
 ---
 
@@ -82,7 +81,7 @@ CAR PARKING SYSTEM
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/car-parking-system.git
+git clone https://github.com/yourusernam/car-parking-system.git
 ```
 
 Go to project directory
@@ -175,9 +174,10 @@ SQLite3 stores:
 
 **Naveen Kaldate**
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/NaveenKaldate
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: https://www.linkedin.com/in/naveen-kaldate-705082329/
+
 
 ---
 
